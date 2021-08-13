@@ -1,0 +1,12 @@
+{
+    "layer":"./conf/ficha.png",
+    "fonte":"/home/guest/layoutImg/conf/candideCondensed.fnt",
+    "resize":{
+        "width":672,
+        "height":936
+    },
+    "position":{
+        "x":0,
+        "y":0
+    }
+}
